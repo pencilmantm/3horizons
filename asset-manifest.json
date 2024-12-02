@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/3horizons/static/css/main.6d0c0490.css",
+    "main.js": "/3horizons/static/js/main.869b01c0.js",
+    "static/js/453.cdbe5af8.chunk.js": "/3horizons/static/js/453.cdbe5af8.chunk.js",
+    "index.html": "/3horizons/index.html",
+    "main.6d0c0490.css.map": "/3horizons/static/css/main.6d0c0490.css.map",
+    "main.869b01c0.js.map": "/3horizons/static/js/main.869b01c0.js.map",
+    "453.cdbe5af8.chunk.js.map": "/3horizons/static/js/453.cdbe5af8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d0c0490.css",
+    "static/js/main.869b01c0.js"
+  ]
+}
